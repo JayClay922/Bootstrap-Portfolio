@@ -2,3 +2,26 @@ body {
     width: 100%;
     height: 100%;
 }
+
+.customNav {
+    color: white;
+}
+
+.jumbotron {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+}
+
+.jumbotron img {
+    height: 280px;
+    width: 220px;
+    border-radius: 100%;
+}
+
+.jumbotron h1{
+    font-size: 30px;
+}
