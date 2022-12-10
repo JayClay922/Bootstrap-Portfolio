@@ -25,3 +25,7 @@ body {
 .jumbotron h1{
     font-size: 30px;
 }
+
+.sectionHeading {
+    text-align: center;
+}
