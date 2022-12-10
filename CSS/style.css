@@ -29,3 +29,11 @@ body {
 .sectionHeading {
     text-align: center;
 }
+
+.card-group {
+    margin: 10px;
+}
+
+.card {
+    margin: 10px;
+}
