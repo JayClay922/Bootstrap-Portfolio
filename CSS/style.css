@@ -28,6 +28,11 @@ body {
 
 .sectionHeading {
     text-align: center;
+    font-size: 30px !important;
+}
+
+.workHeading h1 {
+    font-size: 30px;
 }
 
 .card-group {
