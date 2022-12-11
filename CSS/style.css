@@ -48,12 +48,13 @@ body {
     border-top-right-radius: 25px;
 }
 
-.contactContainer {
-    display: flex;
-    flex-direction: row;
-    align-items: left;
-    justify-content: center;
-    justify-content: space-around;
+.skillContainer p {
+    color: black;
+    font-weight: bold;
+}
+
+.list-group-item {
+    font-style: italic;
 }
 
 .jumbotron-fluid {
@@ -73,6 +74,14 @@ body {
     text-align: center !important;
     font-style: italic;
     font-size: 17px;
+}
+
+.contactContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    justify-content: center;
+    justify-content: space-around;
 }
 
 .contactContainer p a {
