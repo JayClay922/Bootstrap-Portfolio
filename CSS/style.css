@@ -101,6 +101,10 @@ body {
     color: black;
 }
 
+a[href^="#"] {
+    color: white;
+}
+
 a[href^="https"] {
     color: black;
 }
@@ -110,4 +114,20 @@ a[href*="horiseon"] {
     color: white;
     background-color: rgba(0, 0, 0, 0.7);
     border-bottom: 4px solid orange; 
+}
+
+.nav-link {
+    color: white
+}
+
+.nav-link:hover {
+    filter: drop-shadow(100%);
+}
+
+.card-title {
+    cursor: pointer;
+}
+
+.card-title:hover {
+    filter: grayscale(100%)
 }
