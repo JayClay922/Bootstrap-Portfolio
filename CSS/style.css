@@ -56,6 +56,25 @@ body {
     justify-content: space-around;
 }
 
+.jumbotron-fluid {
+    display: flex;
+    flex-direction: row;
+    height: 40vh;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.aboutmeContainer h1 {
+    text-align: 3;
+    font-size: 30px;
+    font-weight: bold;
+}
+.aboutmeContainer p {
+    text-align: center !important;
+    font-style: italic;
+    font-size: 17px;
+}
+
 .contactContainer p a {
     align-items:center;
     color: black;
