@@ -18,31 +18,27 @@ The acceptance criteria for this project are, that using Bootstrap we have to re
 Though this project was fairly easier with the help of 'Bootstrap CSS', it still came with it' challenges. However I did manage to arrive at a suitable outcome.
 
 - I successfully used the 'Bootstrap CSS Framework' for the 'Navigation Bar' and menu, with different section headings such as 'Work', 'Skills' etc...
+ 
+ ![navbar code](./Images/navbar-screenshot.png)
 
+ ![navbar browser](./Images/navbar-browser.png)
 
+- I was able to add a jumbotron with my name, my picture and some extra information.
+- I included my work in the 'Work Section' using 'Bootstrap Card Decks'. The first card has a refactoring project I did with an image and a short description. The rest of the cards have placeholder names and images.
 
+ ![card decks code](./Images/card-decks-code.png)  
+ ![card decks browser](./Images/card-decks-browser.png)
 
+- I included a 'Skills Section' detailing skills I hope to gain within the bootcamp.
+- Lastly, I added the About me and Contact me section within the footer. However, per the instructions, they were meant to be on the same row. I had some difficulty here and opted to place one above the other as seen in the final screenshots:
 
+ ![about me and contact me section](./Images/aboutme-contactme-browser.png)
 
+ ## License
+ Copyright (c) 2022 JayClay922
 
-A section displaying your work in grid.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-If you need to use placeholder image use placehold.coLinks to an external site.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-Use Bootstrap cards for each project.
-
-The description should give a brief overview of the work.
-
-Each project will eventually link to your class project work!
-
-A skills section
-
-List out the skills you expect to learn from the bootcamp.
-An about/contact section
-
-An About Me section in the same row.
-A footer section
-
-All hyperlinks should have a hover effect.
-
-All buttons should display a box shadow upon hover.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
