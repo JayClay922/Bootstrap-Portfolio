@@ -72,7 +72,7 @@ body {
 .jumbotron-fluid {
     display: flex;
     flex-direction: row;
-    height: 40vh;
+    height: 55vh;
     align-items: center !important;
     justify-content: center !important;
 }
@@ -114,18 +114,6 @@ a[href*="horiseon"] {
     color: white;
     background-color: rgba(0, 0, 0, 0.7);
     border-bottom: 4px solid orange; 
-}
-
-.nav-link {
-    color: white
-}
-
-.nav-link:hover {
-    filter: drop-shadow(100%);
-}
-
-.card-title {
-    cursor: pointer;
 }
 
 .card-title:hover {
